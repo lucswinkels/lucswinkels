@@ -1,5 +1,5 @@
  👋  Hi, I’m Luc!
  
- 👀  Check out my [portfolio](https://lucswinkels.com/) for a more detailed description of all my recent projects.
+ 👀  Currently working on my [graduation portfolio](https://graduation.lucswinkels.com/) for my internship @ Moonly Software.
  
- 🌱  I’m currently learning more about building modern full-stack web apps using Next.js.
+ 🌱  I’m currently interested to learn more about building modern full-stack web apps using Next.js.
