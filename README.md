@@ -1,5 +1,3 @@
  👋  Hi, I’m Luc!
  
- 👀  Currently working as a front-end developer @ Moonly Software.
- 
- 🌱  I’m currently interested to learn more about building modern full-stack web apps using Next.js.
+ 👀  Currently working as a front-end developer @ Moonly Software, where I combine technologies like Laravel, React, Shopify, WordPress and Webflow to build beautiful websites and webapps.
